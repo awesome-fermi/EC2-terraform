@@ -1,0 +1,3 @@
+PRIVATE.md
+.terraform/*
+.terraform.lock.hcl
