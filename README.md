@@ -4,4 +4,4 @@ $Env:AWS_ACCESS_KEY_ID=""
 $Env:AWS_SECRET_ACCESS_KEY="" 
 
 [In progress] Server architecture
-![alt text](doc/image.pngimage.png)
+![alt text](doc/image.png)
